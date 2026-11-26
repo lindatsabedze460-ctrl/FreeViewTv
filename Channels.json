@@ -1,0 +1,19 @@
+JSON
+{
+  "channels": [
+    {
+      "name": "SABC News",
+      "country": "South Africa",
+      "category": "News",
+      "streamUrl": "",
+      "available": false
+    },
+    {
+      "name": "Eswatini TV",
+      "country": "Eswatini",
+      "category": "General",
+      "streamUrl": "",
+      "available": false
+    }
+  ]
+}
